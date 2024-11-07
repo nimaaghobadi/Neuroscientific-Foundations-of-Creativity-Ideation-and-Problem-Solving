@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research or repository in your work, please cite it as follows."
+title: "Neuroscientific Foundations of Creativity, Ideation, and Problem-Solving: A Critical Review and Cognitive Enhancement Strategies"
+version: "v1.0"
+doi: 10.5281/zenodo.13895946
+authors:
+  - family-names: "Ghobadi"
+    given-names: "Nima"
+date-released: 2024-10-06
+abstract: >
+  This repository accompanies the research on the neuroscientific basis of creativity and ideation. It includes supporting materials and structured documentation to facilitate academic discussion and exploration of cognitive enhancement strategies.
+URL: "https://github.com/nimaaghobadi/Neuroscientific-Foundations-of-Creativity-Ideation-and-Problem-Solving"
