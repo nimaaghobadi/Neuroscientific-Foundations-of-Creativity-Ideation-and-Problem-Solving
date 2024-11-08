@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - 2024-11-07
+## [1.0.0] - 2024-10-06
 ### Added
 - Initial release of the research paper in PDF and HTML formats.
 - Overview documentation for repository contents.
