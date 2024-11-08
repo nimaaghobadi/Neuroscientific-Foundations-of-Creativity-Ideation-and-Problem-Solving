@@ -32,7 +32,7 @@ This repository hosts resources related to the research paper *Neuroscientific F
 ---
 
 ## Abstract
-The study explores the neural underpinnings of creativity and ideation, focusing on brain regions and mechanisms associated with creative thinking and effective problem-solving. Practical cognitive enhancement strategies are presented, along with a critical analysis of current methodologies and future research recommendations.
+The study explores the neural underpinnings of creativity and ideation, focusing on brain regions and mechanisms associated with creative thinking and effective problem-solving. Practical cognitive enhancement strategies and a critical analysis of current methodologies and future research recommendations are presented.
 
 ---
 
@@ -47,7 +47,7 @@ The primary objectives of this research and repository include:
 ---
 
 ## Usage
-This repository serves as a reference for researchers, educators, and practitioners in neuroscience, cognitive psychology, and related fields. The resources provided here are intended to support research, academic citations, and practical applications for cognitive enhancement.
+This repository is a reference for researchers, educators, and practitioners in neuroscience, cognitive psychology, and related fields. The resources provided here are intended to support research, academic citations, and practical applications for cognitive enhancement.
 
 ---
 
@@ -59,11 +59,11 @@ This repository serves as a reference for researchers, educators, and practition
    ```
  2. Navigate to the [docs folder](./docs) to access the paper in PDF or HTML formats.
 
-##License  
+## License  
 This work is licensed under the [Creative Commons License](./LICENSE), allowing academic use, distribution, and reproduction with proper attribution.
 
-##Contact 
-For questions, collaborations, or feedback, please use the repository’s [Discussion section](../../discussions).
+## Contact 
+Please use the repository’s [Discussion section](../../discussions) for questions, collaborations, or feedback.
 
 ## Additional Resources
 
